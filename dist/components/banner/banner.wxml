@@ -1,0 +1,5 @@
+<block wx:if="{{$taroCompReady}}">
+    <view>{{age}}
+        <at-button compid="{{$compid__5}}">点击</at-button>
+    </view>
+</block>

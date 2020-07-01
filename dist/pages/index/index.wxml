@@ -1,0 +1,7 @@
+<block wx:if="{{$taroCompReady}}">
+    <view class="index">
+        <at-button compid="{{$compid__126}}">按钮文案</at-button><text>{{username}}</text>
+        <at-icon compid="{{$compid__127}}"></at-icon>
+        <banner compid="{{$compid__128}}"></banner>
+    </view>
+</block>
